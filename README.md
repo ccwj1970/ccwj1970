@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ccwj1970
 - 👀 I’m interested in front-end stuffs
 - 🌱 I’m currently learning HTML/CSS
-- 💞️ I’m looking to collaborate on projects together with other developers in the future
+- 💞️ I’m looking to building up my own projects
 - 📫 How to reach me: chiweiju0@gmail.com
 
 <!---
