@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ccwj1970
-- 👀 I’m interested in front-end stuffs
-- 🌱 I’m currently learning HTML/CSS/JavaScript
-- 💞️ I’m looking to building up my first project
+- 👀 I’m interested in iOS App development 
+- 🌱 I’m currently learning Swift/Swift UI
+- 💞️ I’m looking  forward to building up my first project
 - 📫 How to reach me: chiweiju0@gmail.com
 
 <!---
